@@ -1,4 +1,4 @@
-#Copyright 2013 Avi Networks
+#Copyright 2013 Gaurav Rastogi
 #!python
 import apt
 import sys
@@ -90,6 +90,7 @@ def init_linux_pkgs():
 	'emacs':{},
         'ia32-libs':{},
         'curl':{},
+        'vim':{},
         #'doxygen':{},
         }
 

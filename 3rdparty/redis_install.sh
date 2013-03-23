@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright 2013 Gaurav Rastogi
 wget http://redis.googlecode.com/files/redis-2.6.11.tar.gz
 tar xzf redis-2.6.11.tar.gz
 cd redis-2.6.11

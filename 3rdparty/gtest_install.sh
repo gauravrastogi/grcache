@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright 20013 Gaurav Rastogi
 wget http://googletest.googlecode.com/files/gtest-1.6.0.zip
 unzip gtest-1.6.0.zip
 cd gtest-1.6.0
